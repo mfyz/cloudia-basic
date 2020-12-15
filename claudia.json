@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "cloudia-basic-executor",
+    "name": "cloudia-basic",
+    "region": "us-east-1"
+  }
+}
