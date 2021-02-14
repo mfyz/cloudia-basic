@@ -37,5 +37,5 @@ echo '{"name": "Fatih"}' | claudia test-lambda --event /dev/stdin
 To check the logs after invoking:
 
 ```
-aws logs filter-log-events --log-group-name /aws/lambda/claudia-basic
+aws logs filter-log-events --log-group-name /aws/lambda/cloudia-basic
 ```
